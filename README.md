@@ -126,7 +126,7 @@ https://www.lavivienpost.net/wp-content/uploads/2022/02/quicksort-600-1.gif
 
 
 ### Binary Search Tree Steps
-https://d18l82el6cdm1i.cloudfront.net/uploads/bePceUMnSG-binary_search_gif.gif
+![Binary Search Tree Animation](https://d18l82el6cdm1i.cloudfront.net/uploads/bePceUMnSG-binary_search_gif.gif)
 
 ### Exponential Search
 https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif
