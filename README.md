@@ -118,18 +118,16 @@ Best suited for **unbounded or large sorted arrays**. It first finds a range by 
 
 
 ### Merge Sort Animation
-https://www.lavivienpost.net/wp-content/uploads/2022/02/merge-sort-400.gif
-
+![MergeSortAnimation](https://www.lavivienpost.net/wp-content/uploads/2022/02/merge-sort-400.gif)
 
 ### Quick Sort Animation
-https://www.lavivienpost.net/wp-content/uploads/2022/02/quicksort-600-1.gif
-
+![QuickSortAnimation](https://www.lavivienpost.net/wp-content/uploads/2022/02/quicksort-600-1.gif)
 
 ### Binary Search Tree Steps
 ![Binary Search Tree Animation](https://d18l82el6cdm1i.cloudfront.net/uploads/bePceUMnSG-binary_search_gif.gif)
 
 ### Exponential Search
-https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif
+![exponenetialsearch](https://www.mathwarehouse.com/programming/images/binary-vs-linear-search/binary-and-linear-search-animations.gif)
 
 ---
 
@@ -189,5 +187,5 @@ This project is open-source under the **MIT License**. Feel free to use, learn f
 
 ## 🙌 Acknowledgments
 
-Made with ❤️ as part of a learning project on Data Structures and Algorithms in C++.
+Made with ❤️ as part of a learning project on Data Structures and Algorithms in C++ by Group 11 LG3 Sept Intake 2024
 
